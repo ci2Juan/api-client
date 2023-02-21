@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Valencia Juan",
+    "gender": "male",
+    "height": 66,
+    "eye_color": "brown",
+    "image": "https://raw.githubusercontent.com/ci2Juan/api-client/main/profiles/beard.png"
+  },
+  {
+    "name": "Flórez Juan",
+    "gender": "male",
+    "height": 180,
+    "eye_color": "brown",
+    "image": "https://raw.githubusercontent.com/ci2Juan/api-client/main/profiles/suit.png"
+  },
+  {
+    "name": "Cardona Yeison",
+    "gender": "male",
+    "height": 202,
+    "eye_color": "yellow",
+    "image": "https://raw.githubusercontent.com/ci2Juan/api-client/main/profiles/bold.png"
+  },
+  {
+    "name": "Giraldo Juan",
+    "gender": "male",
+    "height": 180,
+    "eye_color": "pink",
+    "image": "https://raw.githubusercontent.com/ci2Juan/api-client/main/profiles/suit.png"
+  }
+ ]
